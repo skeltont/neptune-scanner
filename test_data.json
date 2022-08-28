@@ -19,7 +19,7 @@
                 "ouid": 308,
                 "uid": 9,
                 "l": 0,
-                "o": [],
+                "o": [[0, 5, 0, 0]],
                 "n": "Kajam I",
                 "puid": 7,
                 "w": 0,
@@ -2354,7 +2354,7 @@
                 "total_stars": 14,
                 "total_fleets": 5,
                 "total_strength": 317,
-                "alias": "player",
+                "alias": "player 1",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2402,7 +2402,7 @@
                 "total_stars": 16,
                 "total_fleets": 5,
                 "total_strength": 217,
-                "alias": "player",
+                "alias": "player 2",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -2450,7 +2450,7 @@
                 "total_stars": 13,
                 "total_fleets": 4,
                 "total_strength": 186,
-                "alias": "player",
+                "alias": "player 3",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2498,7 +2498,7 @@
                 "total_stars": 13,
                 "total_fleets": 4,
                 "total_strength": 369,
-                "alias": "player",
+                "alias": "player 4",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2546,7 +2546,7 @@
                 "total_stars": 16,
                 "total_fleets": 3,
                 "total_strength": 307,
-                "alias": "player",
+                "alias": "player 5",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -2616,7 +2616,7 @@
                 "stars_abandoned": 0,
                 "cash": 12,
                 "total_strength": 292,
-                "alias": "player",
+                "alias": "Skeletron",
                 "tech": {
                     "scanning": {
                         "level": 2,
@@ -2706,7 +2706,7 @@
                 "total_stars": 18,
                 "total_fleets": 7,
                 "total_strength": 298,
-                "alias": "player",
+                "alias": "player 7",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2754,7 +2754,7 @@
                 "total_stars": 7,
                 "total_fleets": 7,
                 "total_strength": 236,
-                "alias": "player",
+                "alias": "player 8",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -2802,7 +2802,7 @@
                 "total_stars": 19,
                 "total_fleets": 4,
                 "total_strength": 261,
-                "alias": "player",
+                "alias": "player 9",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -2850,7 +2850,7 @@
                 "total_stars": 10,
                 "total_fleets": 6,
                 "total_strength": 203,
-                "alias": "player",
+                "alias": "player 10",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2898,7 +2898,7 @@
                 "total_stars": 4,
                 "total_fleets": 4,
                 "total_strength": 181,
-                "alias": "player",
+                "alias": "player 11",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -2946,7 +2946,7 @@
                 "total_stars": 12,
                 "total_fleets": 5,
                 "total_strength": 248,
-                "alias": "player",
+                "alias": "player 12",
                 "tech": {
                     "scanning": {
                         "value": 0.5,
@@ -2994,7 +2994,7 @@
                 "total_stars": 11,
                 "total_fleets": 6,
                 "total_strength": 221,
-                "alias": "player",
+                "alias": "player 13",
                 "tech": {
                     "scanning": {
                         "value": 0.375,
@@ -3042,7 +3042,7 @@
                 "total_stars": 21,
                 "total_fleets": 4,
                 "total_strength": 328,
-                "alias": "player",
+                "alias": "player 14",
                 "tech": {
                     "scanning": {
                         "value": 0.5,

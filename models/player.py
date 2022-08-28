@@ -15,7 +15,7 @@ class Player:
   total_science:	int
   total_stars:	int
   total_strength:	int
-  tech: dict
+  uid: int
 
   @classmethod
   def build_from_player_data(cls, player_data):
@@ -74,8 +74,6 @@ class Player:
     ]
 
   def technology_display(self):
-    # print(self.tech)
-
     return TABLE_EMBED_STR.format(
       player=Player.format_table_cell(self.alias, 5),
       row="\t".join([Player.format_table_cell(v, 4) for v in self.technology_values()])
